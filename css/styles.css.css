@@ -16,6 +16,9 @@ body{
     color:#4a4b4c;
     background-color:white;
 }
+main{
+    margin-bottom: 100px;
+}
 .button{
     display: inline-block;
     text-align: center;
@@ -50,7 +53,7 @@ body{
     padding-top: 30px;
     padding-bottom: 30px;
     
-
+    
 }
 .search-bar {
     text-align: center;
@@ -74,16 +77,16 @@ body{
     padding: 8px 6px;
     border-radius:7px;
     
-
-
+    
+    
 }
 .site-header-logo:hover{
     opacity: 0.8;
-
+    
 }
 .site-header-logo:active{
     opacity: 0.6;
-
+    
 }
 .currency-item {
     margin-right: 25px;
@@ -216,10 +219,10 @@ body{
 }
 
 .news-section{
-display: flex;
-flex-wrap: wrap;
-
-
+    display: flex;
+    flex-wrap: wrap;
+    
+    
     
     
 }
@@ -273,7 +276,7 @@ flex-wrap: wrap;
     border-radius: 10px;
     margin-top: 10px;
     margin-bottom: 10px;
-
+    
 }
 .kb {
     display: flex;
@@ -284,16 +287,16 @@ flex-wrap: wrap;
     margin-right: 10px;
 }
 .kb-text {
-
-height: 14px;
-font-family: 'Rubik';
-font-style: normal;
-font-weight: 400;
-font-size: 12px;
-line-height: 14px;
-
-color: #5E5F61;
-
+    
+    height: 14px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    
+    color: #5E5F61;
+    
 }
 .banner-group {
     margin: 0;
@@ -315,33 +318,33 @@ color: #5E5F61;
 }
 .group33-link {
     width: 149px;
-height: 50px;
-left: 1041px;
-top: 1253px;
-
-background: #F78B3B;
-border-radius: 10px;
-display: flex;
-align-items: flex-start;
-padding-top: 13px;
-padding-bottom: 13px;
-padding-left: 30px;
-padding-right: 30px;
-color:white;
-margin-right: 71px;
-text-decoration: none;
+    height: 50px;
+    left: 1041px;
+    top: 1253px;
+    
+    background: #F78B3B;
+    border-radius: 10px;
+    display: flex;
+    align-items: flex-start;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    padding-left: 30px;
+    padding-right: 30px;
+    color:white;
+    margin-right: 71px;
+    text-decoration: none;
 }
 .span{
     width: 89px;
-height: 24px;
-
-font-family: 'Rubik';
-font-style: normal;
-font-weight: 500;
-font-size: 20px;
-line-height: 24px;
-text-decoration: none;
-padding-right: 0;
+    height: 24px;
+    
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    text-decoration: none;
+    padding-right: 0;
 }
 
 
@@ -354,26 +357,26 @@ padding-right: 0;
 .world-news {
     display: flex;
     padding: 0;
-
+    
 }
 
 .columns-with-img {
-  
-border-radius: 15px;
-width: 797px;
-height: 205px;
+    
+    border-radius: 15px;
+    width: 797px;
+    height: 205px;
 }
 .img-styles{
     display: flex;
     margin-right: 15px;
-
+    
 }
 .notebook {
     display: flex;
     padding: 15px;
     background: #F6F6F6;
     margin-bottom: 10px;
-
+    
     
 }
 .notebook-wrapper{
@@ -387,7 +390,7 @@ height: 205px;
     width: 535px;
     display: flex;
     flex-direction: column;
-
+    
 }
 .icon-styles{
     display: flex;
@@ -400,11 +403,11 @@ height: 205px;
 .h2-info-detail {
     margin-bottom: 20px;
     font-family: 'Rubik';
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 22px;
-color: #4A4B4C;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    color: #4A4B4C;
 }
 .bottom-of-notebook {
     display: flex;
@@ -424,19 +427,19 @@ color: #4A4B4C;
     margin-left: auto;
     width: 100%;
     text-align: center;
-height: 19px;
-
-font-family: 'Rubik';
-font-style: normal;
-font-weight: 500;
-font-size: 16px;
-line-height: 19px;
-border-radius: 5px;
-border-color: transparent;
-/* identical to box height */
-
-
-color: #000000;
+    height: 19px;
+    
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    border-radius: 5px;
+    border-color: transparent;
+    /* identical to box height */
+    
+    
+    color: #000000;
     text-decoration: none;
 }
 
@@ -455,38 +458,38 @@ color: #000000;
 .content {
 }
 .lines:not(:last-child) {
-border-bottom:1px solid grey;
+    border-bottom:1px solid grey;
 }
 .lines-heading {
     margin-bottom: 8px;
     width: 356px;
-height: 48px;
-
-font-family: 'Rubik';
-font-style: normal;
-font-weight: 500;
-font-size: 18px;
-line-height: 24px;
-/* or 133% */
-
-
-color: #000000;
+    height: 48px;
+    
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 24px;
+    /* or 133% */
+    
+    
+    color: #000000;
 }
 .lines-conc{
     display: block;
     width: 159px;
-height: 15px;
-
-font-family: 'Rubik';
-font-style: normal;
-font-weight: 400;
-font-size: 13px;
-line-height: 15px;
-
-color: #5E5F61;
-padding-bottom: 35px;
-
-
+    height: 15px;
+    
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 15px;
+    
+    color: #5E5F61;
+    padding-bottom: 35px;
+    
+    
 }
 
 
@@ -498,12 +501,75 @@ padding-bottom: 35px;
 .addvert{
     margin-top: 5px;
     width: 393px;
-height: 338px;
-left: 927px;
-top: 1948px;
-margin: 10px;
-border-radius: 15px;
+    height: 338px;
+    left: 927px;
+    top: 1948px;
+    margin: 10px;
+    border-radius: 15px;
 }
 .best{
     flex-direction: column;
+}
+
+/* footer  */
+
+
+.site-footer {
+    
+    width: 100%;
+    background-color: #7297EF;
+    
+    
+}
+.footer-container{
+    height: 356px;
+}
+.footer-wrapper {
+    display: flex;
+}
+.site-footer-logo{
+    display: block;
+    margin-top: 40px;
+    background-color:transparent;
+    width: 264px;
+    height: 28px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    margin-left: 133px;
+    
+}
+.site-footer-logo-img{
+    display: block;
+    margin-top: 40px;
+}
+.footer-parts-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-bottom: 50px;
+    border-bottom: 2px solid white;
+}
+.footer-parts{
+    width: 229px;
+    height: 95px;
+    font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 19px;
+    
+}
+
+.footer-text {
+}
+.footer-ul {
+}
+.footer-ul-item {
+    list-style: none;
+}
+time{
+    padding-left: 5px;
 }
